@@ -11,12 +11,15 @@
 - ***CSS 3 (SASS)*** <br/>
 - ***Bootsrtap 3*** <br/>
 - ***Java Script*** <br/>
+- ***Angular JS*** <br/>
+- ***React*** <br/>
+- ***Node.js*** <br/>
+- ***Express.js*** <br/>
 - ***AJAX*** <br/>
 - ***JSON, REST, SPA*** <br/>
 - ***GIT*** <br/>
 - ***TypeScript*** <br/>
 - ***MySQL, MongoDB*** <br/>
-- ***React.js*** <br/>
 - ***Unit Testing*** <br/>
 - ***WebPack*** <br/>
 - ***Karma, Gulp, Bower*** <br/>
