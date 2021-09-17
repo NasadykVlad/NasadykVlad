@@ -10,21 +10,22 @@
 > ⚡ Your life is not a problem to be solved but a gift to be opened. <br/>
 > ***Vein Miller***
 ### ​💻​💾​👓​👔​ Languages and Technologies:
-- ***HTML 5*** <br/> 
-- ***CSS 3 (SASS)*** <br/>
-- ***Bootsrtap 3*** <br/>
 - ***Java Script*** <br/>
-- ***Angular JS*** <br/>
-- ***React*** <br/>
+- ***React.js*** <br/>
+- ***AngularJS (1.5)*** <br/>
+- ***TypeScript*** <br/>
 - ***Node.js*** <br/>
 - ***Express.js*** <br/>
+- ***HTML*** <br/> 
+- ***CSS (SASS)*** <br/>
+- ***Bootsrtap*** <br/>
+- ***PUG*** <br/>
 - ***AJAX*** <br/>
 - ***JSON, REST, SPA*** <br/>
 - ***GIT*** <br/>
-- ***TypeScript*** <br/>
 - ***MySQL, MongoDB*** <br/>
 - ***Unit Testing*** <br/>
-- ***WebPack*** <br/>
+- ***Webpack*** <br/>
 - ***Karma, Gulp, Bower*** <br/>
 - ***SDLC*** <br/>
 - ***SCRUM*** <br/>
