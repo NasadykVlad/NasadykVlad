@@ -5,7 +5,7 @@
 ### 💬 Check my Facebook: [Vladyslav Nasadyk](https://www.facebook.com/profile.php?id=100008475994569)
 ### 💬 Check my LinkedIn: [Vladyslav Nasadyk](https://www.linkedin.com/in/vladyslav-nasadyk-5a947b1bb/)
 ### 💬 Check my DOU: [Vlad Nasadyk](https://dou.ua/users/vlad-nasadyk/)
-### 💬 Check my Djinni: [Vladyslav Nasadyk](https://drive.google.com/file/d/1x_Vh5VxJeBzvL1NMmsDq4oRuNeF0DTUi/view?usp=sharing)
+### 💬 Check my Djinni: [Vladyslav Nasadyk](https://djinni.co/q/b1e544ba2f/)
 ### 💬 Check my Resume: [CV](https://drive.google.com/file/d/1GRCIs2SWboy9iix2FeyMJC9jCUkIEXJz/view?usp=sharing)
 > ⚡ Your life is not a problem to be solved but a gift to be opened. <br/>
 > ***Vein Miller***
