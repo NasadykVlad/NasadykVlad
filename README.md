@@ -1,5 +1,5 @@
 # 👋 Hi there , my name is **Vladyslav Nasadyk**!
-## 💻 I'am Tech Lead/*Front-end Developer* from Ivano-Frankivsk.
+## 💻 I'am *Tech Lead/Front-end Developer* from Ivano-Frankivsk.
 ## 👔 I work in Clever Staff company.
 ### 💬 Check my Instagram: [@nasadyk.01](https://www.instagram.com/nasadyk.01/)
 ### 💬 Check my Facebook: [Vladyslav Nasadyk](https://www.facebook.com/profile.php?id=100008475994569)
