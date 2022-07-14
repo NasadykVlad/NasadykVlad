@@ -1,6 +1,6 @@
 # 👋 Hi there , my name is **Vladyslav Nasadyk**!
 ## 💻 I'am *Tech Lead/Front-end Developer* from Ivano-Frankivsk.
-## 👔 I work in Clever Staff company.
+## 👔 I work in Clever Staff and decabit companys.
 ### 💬 Check my Instagram: [@nasadyk.01](https://www.instagram.com/nasadyk.01/)
 ### 💬 Check my Facebook: [Vladyslav Nasadyk](https://www.facebook.com/profile.php?id=100008475994569)
 ### 💬 Check my LinkedIn: [Vladyslav Nasadyk](https://www.linkedin.com/in/vladyslav-nasadyk-5a947b1bb/)
@@ -13,6 +13,7 @@
 - ***Java Script*** <br/>
 - ***React.js*** <br/>
 - ***AngularJS (1.5)*** <br/>
+- ***Angular 13+*** <br/>
 - ***TypeScript*** <br/>
 - ***Node.js*** <br/>
 - ***Express.js*** <br/>
